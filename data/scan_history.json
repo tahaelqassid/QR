@@ -1,0 +1,907 @@
+[
+  {
+    "timestamp": "2026-04-11T18:40:27.560925",
+    "type": "EAN13",
+    "data": "6111035000430",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "sidi",
+      "ali",
+      "beverages",
+      "beverages",
+      "preparations",
+      "beverages"
+    ],
+    "suggestions": [],
+    "perplexity": 1.5,
+    "product": {
+      "name": "Sidi Ali",
+      "brand": "\u0633\u064a\u062f\u064a \u0639\u0644\u064a",
+      "categories": "Beverages and beverages preparations,Beverages,Waters,Spring waters,Mineral waters,Unsweetened beverages,Natural mineral waters",
+      "nutriscore": "A",
+      "ingredients": "OBD1 999 999 1112606 266963207 mb",
+      "image_url": "https://images.openfoodfacts.org/images/products/611/103/500/0430/front_en.104.400.jpg",
+      "quantity": "33 cl"
+    }
+  },
+  {
+    "timestamp": "2026-04-13T23:47:14.506472",
+    "type": "[[ 442.94342  426.24594]\n [ 453.7353   169.0895 ]\n [1042.8572   193.81259]\n [1032.0654   450.96906]]",
+    "data": "6111031004258",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "merendina",
+      "snacks",
+      "snacks",
+      "sucr",
+      "biscuits",
+      "et"
+    ],
+    "suggestions": [],
+    "perplexity": 2.0,
+    "product": {
+      "name": "Merendina",
+      "brand": "",
+      "categories": "Snacks, Snacks sucr\u00e9s, Biscuits et g\u00e2teaux, Biscuits, G\u00e2teaux, Biscuits au chocolat, G\u00e2teaux au chocolat",
+      "nutriscore": "E",
+      "ingredients": "Sucre, Huiles v\u00e9g\u00e9tales non - hydrog\u00e9n\u00e9es (Palme, Palmiste, Karit\u00e9, Soja), Farine de bl\u00e9, Oeufs, Cacao maigre en poudre, Hum\u00e9ctants (Glyc\u00e9rine, sorbitol), Sirop de glucose, Lactos\u00e9rum en poudre, Emuls",
+      "image_url": "https://images.openfoodfacts.org/images/products/611/103/100/4258/front_fr.3.400.jpg",
+      "quantity": "40 g"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-13T23:48:38.788040",
+    "type": "[[1389.479  2549.1584]\n [1330.4375 2547.5818]\n [1356.9272 1555.6853]\n [1415.9688 1557.262 ]]",
+    "data": "6111035000430",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "sidi",
+      "ali",
+      "beverages",
+      "beverages",
+      "preparations",
+      "beverages"
+    ],
+    "suggestions": [],
+    "perplexity": 3.0,
+    "product": {
+      "name": "Sidi Ali",
+      "brand": "\u0633\u064a\u062f\u064a \u0639\u0644\u064a",
+      "categories": "Beverages and beverages preparations,Beverages,Waters,Spring waters,Mineral waters,Unsweetened beverages,Natural mineral waters",
+      "nutriscore": "A",
+      "ingredients": "OBD1 999 999 1112606 266963207 mb",
+      "image_url": "https://images.openfoodfacts.org/images/products/611/103/500/0430/front_en.104.400.jpg",
+      "quantity": "33 cl"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-14T00:06:52.926567",
+    "type": "[[ 784.10284 2180.1426 ]\n [ 786.21906 1623.5057 ]\n [2086.991   1628.4512 ]\n [2084.8748  2185.088  ]]",
+    "data": "6111251753912",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "611251753912",
+      "sos",
+      "en",
+      "tomato",
+      "sauces",
+      "protege"
+    ],
+    "suggestions": [],
+    "perplexity": 3.0,
+    "product": {
+      "name": "611251753912",
+      "brand": "sos",
+      "categories": "en:tomato-sauces",
+      "nutriscore": "C",
+      "ingredients": "PROTEGE Tetra Pak CE QUI EST BON olla \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a : \u0644\u0628 \u0637\u0645\u0627\u0637\u0645 (160\u063a \u0644\u0625\u0646\u062a\u0627\u062c 100\u063a \u0645\u0646 \u0627\u0644\u0645\u0646\u062a\u062c) \u060c \u0632\u064a\u062a \u0639\u0628\u0627\u062f \u0627\u0644\u0634\u0645\u0633\u060c \u0633\u0643\u0631 \u060c \u0646\u0634\u0627 \u0627\u0644\u0630\u0631\u0629 \u0645\u0639\u062f\u0644\u060c \u0645\u0644\u062d\u060c \u0646\u0643\u0647\u0629 \u0627\u0644\u062e\u0636\u0631. 7% \u0645\u0646 \u0645\u0648\u0627\u062f \u062c\u0627\u0641\u0629 \n\nIngr\u00e9dients: Pur\u00e9e de tomate (160 g po",
+      "image_url": "https://images.openfoodfacts.org/images/products/611/125/175/3912/front_en.10.400.jpg",
+      "quantity": "350g"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-14T00:06:53.100047",
+    "type": "[[ 711.4829  2151.8662 ]\n [ 712.34814 1712.4141 ]\n [2188.9077  1715.3213 ]\n [2188.0425  2154.7734 ]]",
+    "data": "2892178753912",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "2892178753912"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-14T00:07:50.666781",
+    "type": "[[ 71.202156 113.628136]\n [ 73.0326    83.68403 ]\n [198.79785   91.371864]\n [196.9674   121.31597 ]]",
+    "data": "103100174111",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "103100174111"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-14T00:13:50.523859",
+    "type": "QR_CODE",
+    "data": "https://q.me-qr.com/fxz3cmvz",
+    "category": "URL / Web",
+    "confidence": 1.0,
+    "keywords": [
+      "https",
+      "me",
+      "qr",
+      "com",
+      "fxz3cmvz"
+    ],
+    "suggestions": [],
+    "perplexity": 6.0,
+    "product": {},
+    "polygon": [
+      [
+        1308,
+        440
+      ],
+      [
+        2790,
+        599
+      ],
+      [
+        2457,
+        2058
+      ],
+      [
+        1166,
+        1833
+      ]
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T00:15:09.940945",
+    "type": "[[1026.3722 2175.0234]\n [1705.0997 2149.1973]\n [1749.5653 3317.789 ]\n [1070.8378 3343.6152]]",
+    "data": "5060337508445",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "monst",
+      "energy",
+      "ultra",
+      "monst",
+      "boissons",
+      "et"
+    ],
+    "suggestions": [],
+    "perplexity": 11.0,
+    "product": {
+      "name": "Monster Energy Ultra",
+      "brand": "Monster",
+      "categories": "Boissons et pr\u00e9parations de boissons,Boissons,Boissons \u00e9dulcor\u00e9es,Boissons \u00e9nergisantes",
+      "nutriscore": "UNKNOWN",
+      "ingredients": "ACQUA ADDIZIONATA CON ANIDRIDE CARBONICA, ACIDIFICANTE: ACIDO CITRICO, TAURINA (0,4 % ), CORRETTORE DI ACIDIT\u00c0 (CITRATI DI SODIO), AROMI, ESTRATTO DI PANAX GINSENG (0,08 % ), EDULCORANTI (SUCRALOSIO, ",
+      "image_url": "https://images.openfoodfacts.org/images/products/506/033/750/8445/front_it.43.400.jpg",
+      "quantity": "500 ml"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-14T00:15:10.108018",
+    "type": "[[1089.1659 2377.4233]\n [1620.2247 2354.2886]\n [1657.2404 3203.983 ]\n [1126.1815 3227.1177]]",
+    "data": "44877880",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "44877880"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-14T00:20:50.526872",
+    "type": "[[1622.6199 1354.5428]\n [1697.468  1083.8221]\n [2790.6995 1386.0753]\n [2715.8513 1656.796 ]]",
+    "data": "14428043",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "14428043"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-14T00:20:50.784664",
+    "type": "[[1611.269  1367.0906]\n [1686.6729 1093.5056]\n [2785.48   1396.3528]\n [2710.0762 1669.9377]]",
+    "data": "6111035000430",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "sidi",
+      "ali",
+      "beverages",
+      "beverages",
+      "preparations",
+      "beverages"
+    ],
+    "suggestions": [],
+    "perplexity": 13.0,
+    "product": {
+      "name": "Sidi Ali",
+      "brand": "\u0633\u064a\u062f\u064a \u0639\u0644\u064a",
+      "categories": "Beverages and beverages preparations,Beverages,Waters,Spring waters,Mineral waters,Unsweetened beverages,Natural mineral waters",
+      "nutriscore": "A",
+      "ingredients": "OBD1 999 999 1112606 266963207 mb",
+      "image_url": "https://images.openfoodfacts.org/images/products/611/103/500/0430/front_en.104.400.jpg",
+      "quantity": "33 cl"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-14T00:21:31.363490",
+    "type": "[[ 71.202156 113.628136]\n [ 73.0326    83.68403 ]\n [198.79785   91.371864]\n [196.9674   121.31597 ]]",
+    "data": "103100174111",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "103100174111"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-14T00:23:27.517725",
+    "type": "[[ 568.4115  1125.8346 ]\n [ 653.15564  817.69275]\n [1743.2299  1117.4816 ]\n [1658.4857  1425.6234 ]]",
+    "data": "711033000430",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "711033000430"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-14T00:23:27.697815",
+    "type": "[[ 568.7472 1126.2167]\n [ 653.3888  818.0465]\n [1739.2877 1116.298 ]\n [1654.6461 1424.4681]]",
+    "data": "724033000430",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "724033000430"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-14T00:23:27.966032",
+    "type": "[[ 564.4266  1124.8986 ]\n [ 649.62726  814.9662 ]\n [1744.0088  1115.8129 ]\n [1658.8081  1425.7452 ]]",
+    "data": "6111035000430",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "sidi",
+      "ali",
+      "beverages",
+      "beverages",
+      "preparations",
+      "beverages"
+    ],
+    "suggestions": [],
+    "perplexity": 14.0,
+    "product": {
+      "name": "Sidi Ali",
+      "brand": "\u0633\u064a\u062f\u064a \u0639\u0644\u064a",
+      "categories": "Beverages and beverages preparations,Beverages,Waters,Spring waters,Mineral waters,Unsweetened beverages,Natural mineral waters",
+      "nutriscore": "A",
+      "ingredients": "OBD1 999 999 1112606 266963207 mb",
+      "image_url": "https://images.openfoodfacts.org/images/products/611/103/500/0430/front_en.104.400.jpg",
+      "quantity": "33 cl"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:13:19.614570",
+    "type": "[[1013.28186 1005.584  ]\n [1024.1161   744.61206]\n [1606.9435   768.80786]\n [1596.1093  1029.7798 ]]",
+    "data": "6111031004258",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "merendina",
+      "snacks",
+      "snacks",
+      "sucr",
+      "biscuits",
+      "et"
+    ],
+    "suggestions": [],
+    "perplexity": 16.0,
+    "product": {
+      "name": "Merendina",
+      "brand": "",
+      "categories": "Snacks, Snacks sucr\u00e9s, Biscuits et g\u00e2teaux, Biscuits, G\u00e2teaux, Biscuits au chocolat, G\u00e2teaux au chocolat",
+      "nutriscore": "E",
+      "ingredients": "Sucre, Huiles v\u00e9g\u00e9tales non - hydrog\u00e9n\u00e9es (Palme, Palmiste, Karit\u00e9, Soja), Farine de bl\u00e9, Oeufs, Cacao maigre en poudre, Hum\u00e9ctants (Glyc\u00e9rine, sorbitol), Sirop de glucose, Lactos\u00e9rum en poudre, Emuls",
+      "image_url": "https://images.openfoodfacts.org/images/products/611/103/100/4258/front_fr.3.400.jpg",
+      "quantity": "40 g"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:13:19.787854",
+    "type": "[[1013.3043  1005.7037 ]\n [1024.0233   744.727  ]\n [1607.2208   768.68036]\n [1596.5018  1029.657  ]]",
+    "data": "11211822",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "11211822"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:16:41.121819",
+    "type": "[[1033.664  3166.8503]\n [1039.5704 2842.0603]\n [1889.9298 2857.5247]\n [1884.0233 3182.3147]]",
+    "data": "8723400945246",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "fresh",
+      "spearmint",
+      "flavour",
+      "trident",
+      "lanches",
+      "comida"
+    ],
+    "suggestions": [],
+    "perplexity": 17.0,
+    "product": {
+      "name": "Fresh Spearmint Flavour",
+      "brand": "Trident",
+      "categories": "Lanches comida,Lanches doces,Confeitaria,Pastilhas el\u00e1sticas,Pastilhas el\u00e1sticas sem a\u00e7ucar",
+      "nutriscore": "NOT-APPLICABLE",
+      "ingredients": "Edulcorantes (sorbitol, isomalte, maltit\u00f3is, sucralose), Goma base, Aromas, Espessante (goma ar\u00e1bica), Humidificante (glicerol), Emulsionante (lecitinas), Agente de revestimento (cera de carna\u00faba), Ex",
+      "image_url": "https://images.openfoodfacts.org/images/products/872/340/094/5246/front_pt.4.400.jpg",
+      "quantity": "14 g"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:16:41.279833",
+    "type": "[[ 999.38586 3169.6355 ]\n [1002.88635 2844.8108 ]\n [1924.2079  2854.7395 ]\n [1920.7074  3179.5642 ]]",
+    "data": "7084652118712",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "7084652118712"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:32:46.660850",
+    "type": "[[1013.28186 1005.584  ]\n [1024.1161   744.61206]\n [1606.9435   768.80786]\n [1596.1093  1029.7798 ]]",
+    "data": "6111031004258",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "merendina",
+      "snacks",
+      "snacks",
+      "sucr",
+      "biscuits",
+      "et"
+    ],
+    "suggestions": [],
+    "perplexity": 19.0,
+    "product": {
+      "name": "Merendina",
+      "brand": "",
+      "categories": "Snacks, Snacks sucr\u00e9s, Biscuits et g\u00e2teaux, Biscuits, G\u00e2teaux, Biscuits au chocolat, G\u00e2teaux au chocolat",
+      "nutriscore": "E",
+      "ingredients": "Sucre, Huiles v\u00e9g\u00e9tales non - hydrog\u00e9n\u00e9es (Palme, Palmiste, Karit\u00e9, Soja), Farine de bl\u00e9, Oeufs, Cacao maigre en poudre, Hum\u00e9ctants (Glyc\u00e9rine, sorbitol), Sirop de glucose, Lactos\u00e9rum en poudre, Emuls",
+      "image_url": "https://images.openfoodfacts.org/images/products/611/103/100/4258/front_fr.3.400.jpg",
+      "quantity": "40 g"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:32:46.822430",
+    "type": "[[1013.3043  1005.7037 ]\n [1024.0233   744.727  ]\n [1607.2208   768.68036]\n [1596.5018  1029.657  ]]",
+    "data": "11211822",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "11211822"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:34:24.570122",
+    "type": "[[2319.701  1917.4167]\n [1986.0427 1827.6289]\n [2201.5334 1026.8489]\n [2535.1917 1116.6367]]",
+    "data": "3174780000431",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "boisson",
+      "rafra",
+      "chissante",
+      "aux",
+      "extraits",
+      "taux"
+    ],
+    "suggestions": [],
+    "perplexity": 19.0,
+    "product": {
+      "name": "Boisson rafra\u00eechissante aux extraits v\u00e9g\u00e9taux",
+      "brand": "Coca-Cola",
+      "categories": "Boissons et pr\u00e9parations de boissons, Boissons, Boissons gazeuses, Sodas, Sodas au cola, Boissons avec sucre ajout\u00e9",
+      "nutriscore": "E",
+      "ingredients": "eau gaz\u00e9ifi\u00e9e, sucre, colorant : caramel (E150d), acidifiant : acide phosphorique, ar\u00f4mes naturels (extraits v\u00e9g\u00e9taux), dont caf\u00e9ine.",
+      "image_url": "https://images.openfoodfacts.org/images/products/317/478/000/0431/front_fr.10.400.jpg",
+      "quantity": "1,5 l"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:35:13.776048",
+    "type": "[[1026.3722 2175.0234]\n [1705.0997 2149.1973]\n [1749.5653 3317.789 ]\n [1070.8378 3343.6152]]",
+    "data": "5060337508445",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "monst",
+      "energy",
+      "ultra",
+      "monst",
+      "boissons",
+      "et"
+    ],
+    "suggestions": [],
+    "perplexity": 20.0,
+    "product": {
+      "name": "Monster Energy Ultra",
+      "brand": "Monster",
+      "categories": "Boissons et pr\u00e9parations de boissons,Boissons,Boissons \u00e9dulcor\u00e9es,Boissons \u00e9nergisantes",
+      "nutriscore": "UNKNOWN",
+      "ingredients": "ACQUA ADDIZIONATA CON ANIDRIDE CARBONICA, ACIDIFICANTE: ACIDO CITRICO, TAURINA (0,4 % ), CORRETTORE DI ACIDIT\u00c0 (CITRATI DI SODIO), AROMI, ESTRATTO DI PANAX GINSENG (0,08 % ), EDULCORANTI (SUCRALOSIO, ",
+      "image_url": "https://images.openfoodfacts.org/images/products/506/033/750/8445/front_it.43.400.jpg",
+      "quantity": "500 ml"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:35:13.933042",
+    "type": "[[1089.1659 2377.4233]\n [1620.2247 2354.2886]\n [1657.2404 3203.983 ]\n [1126.1815 3227.1177]]",
+    "data": "44877880",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "44877880"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:39:42.743057",
+    "type": "[[1383.8469 2099.572 ]\n [1405.4832 1791.3259]\n [2546.0854 1871.387 ]\n [2524.4492 2179.633 ]]",
+    "data": "6111126006037",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "protein",
+      "sport",
+      "chergui"
+    ],
+    "suggestions": [],
+    "perplexity": 20.0,
+    "product": {
+      "name": "Protein Sport",
+      "brand": "Chergui",
+      "categories": "",
+      "nutriscore": "UNKNOWN",
+      "ingredients": "",
+      "image_url": "",
+      "quantity": ""
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:41:23.654577",
+    "type": "[[ 784.10284 2180.1426 ]\n [ 786.21906 1623.5057 ]\n [2086.991   1628.4512 ]\n [2084.8748  2185.088  ]]",
+    "data": "6111251753912",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "611251753912",
+      "sos",
+      "en",
+      "tomato",
+      "sauces",
+      "protege"
+    ],
+    "suggestions": [],
+    "perplexity": 21.0,
+    "product": {
+      "name": "611251753912",
+      "brand": "sos",
+      "categories": "en:tomato-sauces",
+      "nutriscore": "C",
+      "ingredients": "PROTEGE Tetra Pak CE QUI EST BON olla \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a : \u0644\u0628 \u0637\u0645\u0627\u0637\u0645 (160\u063a \u0644\u0625\u0646\u062a\u0627\u062c 100\u063a \u0645\u0646 \u0627\u0644\u0645\u0646\u062a\u062c) \u060c \u0632\u064a\u062a \u0639\u0628\u0627\u062f \u0627\u0644\u0634\u0645\u0633\u060c \u0633\u0643\u0631 \u060c \u0646\u0634\u0627 \u0627\u0644\u0630\u0631\u0629 \u0645\u0639\u062f\u0644\u060c \u0645\u0644\u062d\u060c \u0646\u0643\u0647\u0629 \u0627\u0644\u062e\u0636\u0631. 7% \u0645\u0646 \u0645\u0648\u0627\u062f \u062c\u0627\u0641\u0629 \n\nIngr\u00e9dients: Pur\u00e9e de tomate (160 g po",
+      "image_url": "https://images.openfoodfacts.org/images/products/611/125/175/3912/front_en.10.400.jpg",
+      "quantity": "350g"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:41:23.832837",
+    "type": "[[ 711.4829  2151.8662 ]\n [ 712.34814 1712.4141 ]\n [2188.9077  1715.3213 ]\n [2188.0425  2154.7734 ]]",
+    "data": "2892178753912",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "2892178753912"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:55:04.432513",
+    "type": "[[ 71.202156 113.628136]\n [ 73.0326    83.68403 ]\n [198.79785   91.371864]\n [196.9674   121.31597 ]]",
+    "data": "103100174111",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "103100174111"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:55:57.286790",
+    "type": "[[ 568.4115  1125.8346 ]\n [ 653.15564  817.69275]\n [1743.2299  1117.4816 ]\n [1658.4857  1425.6234 ]]",
+    "data": "711033000430",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "711033000430"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:55:57.442552",
+    "type": "[[ 568.7472 1126.2167]\n [ 653.3888  818.0465]\n [1739.2877 1116.298 ]\n [1654.6461 1424.4681]]",
+    "data": "724033000430",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "724033000430"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:55:57.699406",
+    "type": "[[ 564.4266  1124.8986 ]\n [ 649.62726  814.9662 ]\n [1744.0088  1115.8129 ]\n [1658.8081  1425.7452 ]]",
+    "data": "6111035000430",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "sidi",
+      "ali",
+      "beverages",
+      "beverages",
+      "preparations",
+      "beverages"
+    ],
+    "suggestions": [],
+    "perplexity": 21.0,
+    "product": {
+      "name": "Sidi Ali",
+      "brand": "\u0633\u064a\u062f\u064a \u0639\u0644\u064a",
+      "categories": "Beverages and beverages preparations,Beverages,Waters,Spring waters,Mineral waters,Unsweetened beverages,Natural mineral waters",
+      "nutriscore": "A",
+      "ingredients": "OBD1 999 999 1112606 266963207 mb",
+      "image_url": "https://images.openfoodfacts.org/images/products/611/103/500/0430/front_en.104.400.jpg",
+      "quantity": "33 cl"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:59:21.854321",
+    "type": "[[1664.9299 2493.4834]\n [1473.7761 2486.6704]\n [1510.448  1457.717 ]\n [1701.6018 1464.53  ]]",
+    "data": "6111035000430",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "sidi",
+      "ali",
+      "beverages",
+      "beverages",
+      "preparations",
+      "beverages"
+    ],
+    "suggestions": [],
+    "perplexity": 21.0,
+    "product": {
+      "name": "Sidi Ali",
+      "brand": "\u0633\u064a\u062f\u064a \u0639\u0644\u064a",
+      "categories": "Beverages and beverages preparations,Beverages,Waters,Spring waters,Mineral waters,Unsweetened beverages,Natural mineral waters",
+      "nutriscore": "A",
+      "ingredients": "OBD1 999 999 1112606 266963207 mb",
+      "image_url": "https://images.openfoodfacts.org/images/products/611/103/500/0430/front_en.104.400.jpg",
+      "quantity": "33 cl"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-16T23:59:22.024935",
+    "type": "[[1653.5513 2469.064 ]\n [1472.9519 2462.3582]\n [1510.2129 1458.854 ]\n [1690.8123 1465.5598]]",
+    "data": "7661216078837",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "7661216078837"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-17T00:27:14.117117",
+    "type": "[[278.77164 189.68413]\n [276.70364 161.7606 ]\n [377.22836 154.31587]\n [379.29636 182.2394 ]]",
+    "data": "26011424",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "tost",
+      "tarts",
+      "mike",
+      "mitchell",
+      "penny",
+      "de"
+    ],
+    "suggestions": [],
+    "perplexity": 22.0,
+    "product": {
+      "name": "Toster Tarts",
+      "brand": "Mike Mitchell's, Penny",
+      "categories": "de:brote, de:pflanzliche-lebensmittel, en:pflanzliche-lebensmittel-und-getr\u00e4nke, en:pop-tart, de:toastbrote",
+      "nutriscore": "E",
+      "ingredients": "Weizenmehl, Erdbeerfruchtzubereitung 27% (Feuchthaltemittel (Glycerin), Fruktose, Dextrose, Zucker, Glukosesirup, Erdbeerp\u00fcree - konzentrat 9,3%*, Geliermittel (Pektine), S\u00e4ureregulatoren (Citronens\u00e4u",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/002/601/1424/front_de.3.400.jpg",
+      "quantity": ""
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-17T01:55:06.567668",
+    "type": "[[1664.9299 2493.4834]\n [1473.7761 2486.6704]\n [1510.448  1457.717 ]\n [1701.6018 1464.53  ]]",
+    "data": "6111035000430",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "sidi",
+      "ali",
+      "beverages",
+      "beverages",
+      "preparations",
+      "beverages"
+    ],
+    "suggestions": [],
+    "perplexity": 23.0,
+    "product": {
+      "name": "Sidi Ali",
+      "brand": "\u0633\u064a\u062f\u064a \u0639\u0644\u064a",
+      "categories": "Beverages and beverages preparations,Beverages,Waters,Spring waters,Mineral waters,Unsweetened beverages,Natural mineral waters",
+      "nutriscore": "A",
+      "ingredients": "OBD1 999 999 1112606 266963207 mb",
+      "image_url": "https://images.openfoodfacts.org/images/products/611/103/500/0430/front_en.104.400.jpg",
+      "quantity": "33 cl"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-17T01:55:06.717581",
+    "type": "[[1653.5513 2469.064 ]\n [1472.9519 2462.3582]\n [1510.2129 1458.854 ]\n [1690.8123 1465.5598]]",
+    "data": "7661216078837",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "7661216078837"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-17T01:55:53.119020",
+    "type": "[[2319.701  1917.4167]\n [1986.0427 1827.6289]\n [2201.5334 1026.8489]\n [2535.1917 1116.6367]]",
+    "data": "3174780000431",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "boisson",
+      "rafra",
+      "chissante",
+      "aux",
+      "extraits",
+      "taux"
+    ],
+    "suggestions": [],
+    "perplexity": 23.0,
+    "product": {
+      "name": "Boisson rafra\u00eechissante aux extraits v\u00e9g\u00e9taux",
+      "brand": "Coca-Cola",
+      "categories": "Boissons et pr\u00e9parations de boissons, Boissons, Boissons gazeuses, Sodas, Sodas au cola, Boissons avec sucre ajout\u00e9",
+      "nutriscore": "E",
+      "ingredients": "eau gaz\u00e9ifi\u00e9e, sucre, colorant : caramel (E150d), acidifiant : acide phosphorique, ar\u00f4mes naturels (extraits v\u00e9g\u00e9taux), dont caf\u00e9ine.",
+      "image_url": "https://images.openfoodfacts.org/images/products/317/478/000/0431/front_fr.10.400.jpg",
+      "quantity": "1,5 l"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-17T01:58:12.721713",
+    "type": "[[1033.664  3166.8503]\n [1039.5704 2842.0603]\n [1889.9298 2857.5247]\n [1884.0233 3182.3147]]",
+    "data": "8723400945246",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "fresh",
+      "spearmint",
+      "flavour",
+      "trident",
+      "lanches",
+      "comida"
+    ],
+    "suggestions": [],
+    "perplexity": 23.0,
+    "product": {
+      "name": "Fresh Spearmint Flavour",
+      "brand": "Trident",
+      "categories": "Lanches comida,Lanches doces,Confeitaria,Pastilhas el\u00e1sticas,Pastilhas el\u00e1sticas sem a\u00e7ucar",
+      "nutriscore": "NOT-APPLICABLE",
+      "ingredients": "Edulcorantes (sorbitol, isomalte, maltit\u00f3is, sucralose), Goma base, Aromas, Espessante (goma ar\u00e1bica), Humidificante (glicerol), Emulsionante (lecitinas), Agente de revestimento (cera de carna\u00faba), Ex",
+      "image_url": "https://images.openfoodfacts.org/images/products/872/340/094/5246/front_pt.4.400.jpg",
+      "quantity": "14 g"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-17T01:58:12.880730",
+    "type": "[[ 999.38586 3169.6355 ]\n [1002.88635 2844.8108 ]\n [1924.2079  2854.7395 ]\n [1920.7074  3179.5642 ]]",
+    "data": "7084652118712",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "7084652118712"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-17T02:10:57.374123",
+    "type": "[[1033.664  3166.8503]\n [1039.5704 2842.0603]\n [1889.9298 2857.5247]\n [1884.0233 3182.3147]]",
+    "data": "8723400945246",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "fresh",
+      "spearmint",
+      "flavour",
+      "trident",
+      "lanches",
+      "comida"
+    ],
+    "suggestions": [],
+    "perplexity": 23.0,
+    "product": {
+      "name": "Fresh Spearmint Flavour",
+      "brand": "Trident",
+      "categories": "Lanches comida,Lanches doces,Confeitaria,Pastilhas el\u00e1sticas,Pastilhas el\u00e1sticas sem a\u00e7ucar",
+      "nutriscore": "NOT-APPLICABLE",
+      "ingredients": "Edulcorantes (sorbitol, isomalte, maltit\u00f3is, sucralose), Goma base, Aromas, Espessante (goma ar\u00e1bica), Humidificante (glicerol), Emulsionante (lecitinas), Agente de revestimento (cera de carna\u00faba), Ex",
+      "image_url": "https://images.openfoodfacts.org/images/products/872/340/094/5246/front_pt.4.400.jpg",
+      "quantity": "14 g"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-17T02:10:57.531095",
+    "type": "[[ 999.38586 3169.6355 ]\n [1002.88635 2844.8108 ]\n [1924.2079  2854.7395 ]\n [1920.7074  3179.5642 ]]",
+    "data": "7084652118712",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "7084652118712"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-17T08:42:18.001369",
+    "type": "[[1033.664  3166.8503]\n [1039.5704 2842.0603]\n [1889.9298 2857.5247]\n [1884.0233 3182.3147]]",
+    "data": "8723400945246",
+    "category": "Food & Beverage",
+    "confidence": 0.5,
+    "keywords": [
+      "fresh",
+      "spearmint",
+      "flavour",
+      "trident",
+      "lanches",
+      "comida"
+    ],
+    "suggestions": [],
+    "perplexity": 23.0,
+    "product": {
+      "name": "Fresh Spearmint Flavour",
+      "brand": "Trident",
+      "categories": "Lanches comida,Lanches doces,Confeitaria,Pastilhas el\u00e1sticas,Pastilhas el\u00e1sticas sem a\u00e7ucar",
+      "nutriscore": "NOT-APPLICABLE",
+      "ingredients": "Edulcorantes (sorbitol, isomalte, maltit\u00f3is, sucralose), Goma base, Aromas, Espessante (goma ar\u00e1bica), Humidificante (glicerol), Emulsionante (lecitinas), Agente de revestimento (cera de carna\u00faba), Ex",
+      "image_url": "https://images.openfoodfacts.org/images/products/872/340/094/5246/front_pt.4.400.jpg",
+      "quantity": "14 g"
+    },
+    "polygon": []
+  },
+  {
+    "timestamp": "2026-04-17T08:42:18.156078",
+    "type": "[[ 999.38586 3169.6355 ]\n [1002.88635 2844.8108 ]\n [1924.2079  2854.7395 ]\n [1920.7074  3179.5642 ]]",
+    "data": "7084652118712",
+    "category": "Food & Beverage",
+    "confidence": 0.7,
+    "keywords": [
+      "7084652118712"
+    ],
+    "suggestions": [],
+    "perplexity": Infinity,
+    "product": {},
+    "polygon": []
+  }
+]
