@@ -23,12 +23,12 @@ pip install -r requirements.txt
 
 **Webcam mode (live scanner):**
 ```bash
-python main.py
+python3 main.py     #tahaelqassid
 ```
 
 **Scan an image file:**
 ```bash
-python main.py --image path/to/photo.jpg
+python3 main.py --image path/to/photo.jpg
 ```
 
 ---
